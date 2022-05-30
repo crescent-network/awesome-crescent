@@ -7,19 +7,26 @@
 A curated list of awesome resources, libraries, documents, and tools related to the <a href='https://crescent.network'>Crescent Network</a> blockchain.
 
  
+### Contribute
+
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/crescent-network/awesome-crescent/blob/master/CONTRIBUTING.md) first.
+
 ## Contents
 
-1. [Official](#Official)
-2. [Documentation](#Documentation)
-3. [Tutorials](#Tutorials)
-4. [Social](#Social)
-5. [Misc](#Misc)
-6. [Contributing](#Contributing)
+* [Official](#Official)
+* [Documentation](#Documentation)
+* [Tutorials](#Tutorials)
+* [Social](#Social)
+* [Misc](#Misc)
+* [Contributing](#Contributing)
 
 ## Official
 
 * [Crescent Network](https://crescent.network) - The official website of the project.
 * [Crescent Core](https://github.com/crescent-network/crescent) - The official github repository for the project. It contains the core modules and tools.
+
+## Applications
+
 * [Crescent DEX](https://app.crescent.network/) - The official web application interface to interact with Crescent DEX.
 
 ## Documentation
@@ -27,10 +34,27 @@ A curated list of awesome resources, libraries, documents, and tools related to 
 * [Crescent Docs](https://docs.crescent.network/introduction/what-is-crescent)
 * [Developer Docs](https://github.com/crescent-network/crescent/tree/main/docs)
 
+## Block Explorers
+
+* [Mintscan Explorer](https://www.mintscan.io/crescent): Block explorer by [Cosmostation](https://cosmostation.io/)
+* [Ping Explorer](https://ping.pub/crescent): Block explorer by [Ping.pub](https://ping.pub/)
+* [NG Explorer](https://crescent.explorers.guru/): Block explorer by [Nodes Guru](https://nodes.guru/)
+
+## Wallets
+
+* [Cosmostation Android Wallet](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)
+* [Cosmostation iOS Wallet](https://apps.apple.com/kr/app/cosmostation/id1459830339)
+* [Kepler Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
+
 ## Tutorials
 
-* [CLI](https://github.com/crescent-network/crescent/tree/main/docs/cli) - How to interact with the Crescent blockchain using command-line interface.
-* [API](https://github.com/crescent-network/crescent/tree/main/docs/api) - How to start interacting with the blockchain using APIs.
+* [CLIs](https://github.com/crescent-network/crescent/tree/main/docs/cli) - How to interact with the Crescent blockchain using command-line interface.
+* [APIs](https://github.com/crescent-network/crescent/tree/main/docs/api) - How to start interacting with the blockchain using APIs.
+
+## Publicly Available Endpoints
+
+- [Mainnet](https://docs.crescent.network/other-information/network-configurations#crescent-1-mainnet)
+- [Testnet](https://docs.crescent.network/other-information/network-configurations#mooncat-public-testnet)
 
 ## Social
 
@@ -39,6 +63,3 @@ A curated list of awesome resources, libraries, documents, and tools related to 
 * [Telegram](https://t.me/crescentnetwork)
 * [Twitter](https://twitter.com/CrescentHub)
 
-## Contributing
-
-Your contributions are always welcome! Please read the [Contribution Guidelines](https://github.com/crescent-network/awesome-crescent/blob/master/CONTRIBUTING.md) first.
