@@ -16,10 +16,10 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 * [Official](#Official)
 * [Application](#Application)
 * [Documentation](#Documentation)
-* [Block Explorers](#Block-Explorers)
-* [Wallets](#Wallets)
+* [Block Explorer](#Block-Explorer)
+* [Wallet](#Wallet)
 * [Tutorial](#Tutorial)
-* [Publicly Available Endpoints](#Publicly-Available-Endpoints)
+* [Publicly Available Endpoints](#Publicly-Available-Endpoint)
 * [Social](#Social)
 
 ## Official
@@ -36,13 +36,13 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 * [Crescent Docs](https://docs.crescent.network/introduction/what-is-crescent)
 * [Developer Docs](https://github.com/crescent-network/crescent/tree/main/docs)
 
-## Block Explorers
+## Block Explorer
 
 * [Mintscan Explorer](https://www.mintscan.io/crescent): Block explorer by [Cosmostation](https://cosmostation.io/)
 * [Ping Explorer](https://ping.pub/crescent): Block explorer by [Ping.pub](https://ping.pub/)
 * [NG Explorer](https://crescent.explorers.guru/): Block explorer by [Nodes Guru](https://nodes.guru/)
 
-## Wallets
+## Wallet
 
 * [Cosmostation Android Wallet](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)
 * [Cosmostation iOS Wallet](https://apps.apple.com/kr/app/cosmostation/id1459830339)
@@ -53,7 +53,7 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 * [CLIs](https://github.com/crescent-network/crescent/tree/main/docs/cli) - How to interact with the Crescent blockchain using command-line interface.
 * [APIs](https://github.com/crescent-network/crescent/tree/main/docs/api) - How to start interacting with the blockchain using APIs.
 
-## Publicly Available Endpoints
+## Publicly Available Endpoint
 
 - [Mainnet](https://docs.crescent.network/other-information/network-configurations#crescent-1-mainnet)
 - [Testnet](https://docs.crescent.network/other-information/network-configurations#mooncat-public-testnet)
