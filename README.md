@@ -29,8 +29,8 @@ A curated list of awesome resources, libraries, documents, and tools related to 
 
 ## Tutorials
 
-* [Quickstart Guide](https://gno.land/r/boards:gnolang/4) - How to start interacting with the blockchain.
-* [A Beginner’s Guide to the Gnoland Testnet](https://medium.com/@onbloc/a-beginners-guide-to-the-gnoland-testnet-6fdc693a48f4) - A visual guide to creating a wallet and receiving $GNOTs on the testnet.
+* [CLI](https://github.com/crescent-network/crescent/tree/main/docs/cli) - How to interact with the Crescent blockchain using command-line interface.
+* [API](https://github.com/crescent-network/crescent/tree/main/docs/api) - How to start interacting with the blockchain using APIs.
 
 ## Social
 
