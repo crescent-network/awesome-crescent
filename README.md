@@ -14,18 +14,20 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 ## Contents
 
 * [Official](#Official)
+* [Application](#Application)
 * [Documentation](#Documentation)
-* [Tutorials](#Tutorials)
+* [Block Explorers](#Block-Explorers)
+* [Wallets](#Wallets)
+* [Tutorial](#Tutorial)
+* [Publicly Available Endpoints](#Publicly-Available-Endpoints)
 * [Social](#Social)
-* [Misc](#Misc)
-* [Contributing](#Contributing)
 
 ## Official
 
 * [Crescent Network](https://crescent.network) - The official website of the project.
 * [Crescent Core](https://github.com/crescent-network/crescent) - The official github repository for the project. It contains the core modules and tools.
 
-## Applications
+## Application
 
 * [Crescent DEX](https://app.crescent.network/) - The official web application interface to interact with Crescent DEX.
 
@@ -46,7 +48,7 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 * [Cosmostation iOS Wallet](https://apps.apple.com/kr/app/cosmostation/id1459830339)
 * [Kepler Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
 
-## Tutorials
+## Tutorial
 
 * [CLIs](https://github.com/crescent-network/crescent/tree/main/docs/cli) - How to interact with the Crescent blockchain using command-line interface.
 * [APIs](https://github.com/crescent-network/crescent/tree/main/docs/api) - How to start interacting with the blockchain using APIs.
